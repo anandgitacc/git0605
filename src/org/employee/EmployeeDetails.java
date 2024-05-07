@@ -15,10 +15,15 @@ public class EmployeeDetails { // block or body of the Class
 	private void empMobile() {
 		System.out.println("Employee mobile : 8939278836");
 	}
-	
 	private void empWorkingStatus() {
 		System.out.println("currently working");
 	}
+	private void empAdd() {
+		System.out.println("employee add : OMR");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 9d448d9e81206c56ea8169fc11c5648a3b14baef
 	
 	public static void main(String[] args) {
 		
