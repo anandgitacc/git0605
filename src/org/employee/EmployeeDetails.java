@@ -16,6 +16,10 @@ public class EmployeeDetails { // block or body of the Class
 		System.out.println("Employee mobile : 8939278836");
 	}
 	
+	private void empAdd() {
+		System.out.println("employee add : OMR");
+	}
+	
 	public static void main(String[] args) {
 		
 		// object creation
